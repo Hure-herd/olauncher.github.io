@@ -1,17 +1,40 @@
 ---
 layout: post
-title: Welcome to OLauncher!
+title: Minecraft 1.21 - Tricky Trials
 ---
-Introducing OLauncher, the old Minecraft launcher, but updated.
-Current features include:
-* Microsoft Authentication
-* Bundled Java runtime
-* Update checking
+It's a fantastic day today, because it's release day Thursday! And not just any old release day. This one is extra special because today we're shipping Minecraft: Java Edition 1.21, also known as the Tricky Trials Update!<br>
 
-Planned features include:
-* Skin, cape and Optifine cape management
+Venture into the hazardous Trial Chambers alone or with friends, face off against the new Breeze mob and craft a smashingly powerful new weapon, the Mace! Take your ingenious Redstone designs to new heights with the Crafter, play around with the Wind Charge, discover new decorative blocks made of Copper and Tuff, enjoy new Paintings, Music Discs, and more!<br>
 
-We'll keep you posted.<br>
-\- The OLauncher Team
+And that's not all! On the technical side, Tricky Trials is heralding a new age for data packs with Enchantments, Paintings and Jukebox Music Discs now being data-driven. With this release, we're also going live with <br>performance improvements to chunk loading that were introduced in 24w19a, which reduces memory and CPU overhead compared to the old system.<br>
 
-P.S. Check out [the discord](https://discord.gg/zqYZknvYuZ)!
+Embark on your very first adventure in Tricky Trials by delving into the full changelog below, it's a long one!<br>
+
+Happy mining!<br>
+
+**Changelog:**<br>
+\* Added a new underground structure called the Trial Chambers<br>
+\* Added 2 new mobs: Breeze and Bogged<br>
+\* Added a new weapon: the Mace<br>
+\* Added 3 new enchantments exclusive to the Mace: Density, Breach, and Wind Burst<br>
+\* Added the Crafter, Trial Spawner, and Vault blocks<br>
+\* Added the Heavy Core block<br>
+\* Added new variants in the Copper and Tuff block families<br>
+\* Added new items: Trial Explorer Map, Ominous Bottle, Wind Charge, and Breeze Rod<br>
+\* Added Trial Key and Ominous Trial Key<br>
+\* Added 3 new Pottery Sherds, 2 new Banner Patterns, and 2 new Armor Trims<br>
+\* Added 4 new Potions and Tipped Arrows: Infestation, Oozing, Weaving, and Wind Charging<br>
+\* Added 3 new Music Discs and 9 new music tracks<br>
+\* Added 20 new Paintings<br>
+\* Redesigned Bad Omen to give access to Ominous Events<br>
+\* Added 6 new Status Effects including Raid Omen and Trial Omen<br>
+\* Added 8 new Advancements<br>
+\* Added 4 new cave ambient sounds<br>
+\* Boats are now leashable<br>
+\- Removed Herobrine<br>
+
+Cross-platform server jar:<br>
+\* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar)<br>
+
+Report bugs here:<br>
+\* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
